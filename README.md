@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amir Mahdizadeh
 - 👀 I’m interested in VueJs - TailwindCss - ReactJs
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Next.JS
 - 💞️ I’m looking to collaborate on Front-End Projects
 - 📫 You Can Reach Me By My Email mehdizadeh.amir11@gmail.com Or Telegram ID : @emir_vox
 
